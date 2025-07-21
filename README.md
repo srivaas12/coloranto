@@ -1,6 +1,6 @@
 ## Author
-This project was built by Nikesh Kumar.
-contact: nikeshkumar310305@gmail.com
+This project was built by Sri Vasu devan R.
+contact: srivasudevan140@gmail.com
 
 # Colorization Project
 
